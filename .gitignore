@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.DS_Store
+
+portable/
+*.wav
+*.mp3
+test_*.py
+*.log
+*.backup
+..tmp*
